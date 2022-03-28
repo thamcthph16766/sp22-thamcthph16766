@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "name": "Cao Thị Hồng Thắm",
+      "price": "6766",
+      "id": 2
+    },
+    {
+      "name": "Cao Thị Hồng Thắm",
+      "price": "250000",
+      "id": 3
+    },
+    {
+      "name": "Cao Thị Hồng Thắm",
+      "price": "250000",
+      "id": 4
+    },
+    {
+      "name": "Cao Thị Hồng Thắm",
+      "price": "250000",
+      "id": 5
+    },
+    {
+      "name": "Cao Thị Hồng Thắm",
+      "price": "250000",
+      "id": 6
+    },
+    {
+      "name": "Cao Thị Hồng Thắm",
+      "price": "250000",
+      "id": 7
+    },
+    {
+      "name": "Cao Thị Hồng Thắm",
+      "price": "250000",
+      "id": 8
+    },
+    {
+      "name": "Cao Thị Hồng Thắm",
+      "price": "250000",
+      "id": 9
+    }
+  ]
+}
